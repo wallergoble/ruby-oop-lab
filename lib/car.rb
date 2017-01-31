@@ -1,6 +1,6 @@
 class Car
   # read and write speed for instance of a car
-  attr_accessor :speed
+  # attr_accessor :speed
 
   def initialize
     # set speed to 0 when creating new car
